@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "PREFEC Ankili Mahamoud",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "PREFEC",
+  "start_url": "/",
+  "theme_color": "#da002e",
+  "id": "prefec-ankili",
+  "description": "Application de suivi pédagogique - Alliance Française"
+}
